@@ -5,6 +5,8 @@
 - 데이터가 없음
 - 정의 개념
 
+<br>
+
 ### Object
 - Class의 Instance
 - 여러번 선언
@@ -23,6 +25,8 @@ class name {
     }
 }
 ```
+
+<br>
 
 ### 클래스 표현식
 ``` javascript
@@ -44,4 +48,45 @@ let name = class name2 {
 
 console.log(name.name); // >> name2
 ```
-↳ 클래스의 이름 출력
+↳ 클래스로 객체( 오브젝트 ) 만들기
+
+## 오브젝트
+### 오브젝트 생성
+``` javascript
+var object = {};
+
+const person = {
+  name: ['Kim', 'ChanHee'],
+  age: 32,
+  gender: 'male',
+  interests: ['music', 'skiing'],
+  greeting: function() {
+    alert('Hi! I\'m ' + this.name[0] + '.');
+  }
+};
+```
+
+<br>
+
+### 오브젝트 사용
+``` javascript
+person.name
+person.name[0]
+person.age
+person.interests[1]
+person.greeting()
+```
+
+<br>
+
+### 점 표기법
+``` javascript
+object.property
+```
+
+<br>
+
+### 괄호 표기법
+``` javascript
+object['property']
+```
