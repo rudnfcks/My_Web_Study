@@ -1,0 +1,17 @@
+h1 {
+    border: 1px solid blue;
+}
+
+h1:hover {
+    border: 1px solid red;
+}
+
+h2:before {
+    content: "before content";
+    color: blue;
+}
+
+h2:after {
+    content: "after content";
+    color: red;
+}
