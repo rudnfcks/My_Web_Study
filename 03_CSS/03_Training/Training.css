@@ -1,0 +1,22 @@
+/* train_01 */
+#train_01 h1 {
+    font-weight: normal;
+}
+
+#train_01 p span {
+    font-weight: bold;
+}
+
+/* train_02 */
+#train_02 article h1 {
+    font-size: 60px;
+}
+
+#train_02 article p {
+    font-size: 30px;
+}
+
+#train_02 article a {
+    font-size: 15px;
+}
+
