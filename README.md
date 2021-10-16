@@ -39,7 +39,21 @@
 2. [Flex 자식 요소 정렬하기!][04_02]
 3. [Flex 자식 요소의 너비, 여백 조절하기!][04_03]
 
-[01_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_HTTP/01_What_is_HTTP.md
+## 5-1. JavaScript
+1. [HTML에서 JavaScript 사용하기!][05_00_01]
+2. [JavaScript의 변수 종류 알아보기!][05_00_02]
+3. [JavaScript의 연산자들 살펴보기!][05_00_03]
+4. [JavaScript의 함수 선언방법 알아보기!][05_00_04]
+5. [Class 와 Object에 대해 알아보기!][05_00_05]
+
+## 5-2. Style & JavaScript
+1. [JavaScript에서 HTML Element 찾기!][05_01_01]
+2. [JavaScript에서 Style 변경하기!][05_01_01]
+3. [JavaScript에서 Event 할당하기!][05_01_01]
+4. [JavaScript로 class 추가, 삭제 제어하기!][05_01_01]
+5. [JavaScript로 HTML Element의 속성 제어하기!][05_01_01]
+
+[01_01]: 01_What_is_HTTP.md
 [01_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_HTTP/02_HTTP_Method.md
 [01_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_HTTP/03_Common_Header.md
 [01_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_HTTP/04_Request_Header.md
@@ -71,3 +85,15 @@
 [04_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/04_Flex_Style/01_Flex_Parents.md
 [04_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/04_Flex_Style/02_Flex_Child_Sort.md
 [04_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/04_Flex_Style/03_Flex_Padding.md
+
+[05_00_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/00_Core_JS/01_JS_in_HTML.md
+[05_00_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/00_Core_JS/02_JS_Variable.md
+[05_00_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/00_Core_JS/03_JS_Operator.md
+[05_00_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/00_Core_JS/04_JS_Function.md
+[05_00_05]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/00_Core_JS/05_JS_Class_Object.md
+
+[05_01_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/01_JS_Select_Element.md
+[05_01_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/02_JS_Style.md
+[05_01_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/03_JS_Event.md
+[05_01_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/04_JS_Change_Class.md
+[05_01_05]: https://github.com/rudnfcks/My_Web_Study/blob/main/05_JavaScript/05_JS_Element_Attribute.md
