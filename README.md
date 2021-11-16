@@ -6,7 +6,8 @@
 
 1. [인터넷이 작동하는원리][01_01]
 2. [HTTP란?][01_02]
-3. [브라우저의 작동하는 원리][01_03]
+3. [브라우저가 작동하는 원리][01_03]
+4. [DNS가 작동하는 원리][01_04]
 
 ## 2. HTML
 
@@ -57,6 +58,7 @@
 [01_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/How_the_Internet_works.md
 [01_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/What_is_HTTP.md
 [01_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/How_the_Browser_works.md
+[01_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/How_the_DNS_works.md
 [02_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/01_What_is_HTML.md
 [02_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/02_Web_Page_Structure.md
 [02_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/03_HTML_Text.md
