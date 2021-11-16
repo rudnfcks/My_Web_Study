@@ -12,7 +12,7 @@
 
 ## 2. HTML
 
-1. [HTML이 무엇이고 어떻게 사용하는가!][02_01]
+1. [HTML이란 무엇인가][02_01]
 2. [웹페이지 구조를 어떻게 나누는가!][02_02]
 3. [HTML의 서식 태그는 어떻게 사용하는가!][02_03]
 4. [HTML의 메뉴, 리스트 태그 사용하기!][02_04]
@@ -61,7 +61,7 @@
 [01_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/How_the_Browser_works.md
 [01_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/How_the_DNS_works.md
 [01_05]: https://github.com/rudnfcks/My_Web_Study/blob/main/01_Internet/What_is_Hosting.md
-[02_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/01_What_is_HTML.md
+[02_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/What_is_HTML.md
 [02_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/02_Web_Page_Structure.md
 [02_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/03_HTML_Text.md
 [02_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/04_HTML_Menu.md
