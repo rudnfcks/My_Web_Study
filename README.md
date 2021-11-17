@@ -15,7 +15,7 @@
 1. [HTML이란 무엇인가][02_01]
 2. [시맨틱 태그들이란?][02_02]
 3. [기본적인 HTML 태그들][02_03]
-4. [HTML의 메뉴, 리스트 태그 사용하기!][02_04]
+4. [HTML의 메뉴, 리스트 태그들][02_04]
 5. [HTML의 form태그 사용하기!][02_05]
 6. [HTML의 멀티콘텐츠 사용하기!][02_06]
 
@@ -64,7 +64,7 @@
 [02_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/What_is_HTML.md
 [02_02]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/What_is_Semantic_Tags.md
 [02_03]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/Basics_Tags.md
-[02_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/04_HTML_Menu.md
+[02_04]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/Menu-List_Tags.md
 [02_05]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/05_HTML_Form_Tag.md
 [02_06]: https://github.com/rudnfcks/My_Web_Study/blob/main/02_HTML/06_HTML_Multi_Content.md
 [03_01]: https://github.com/rudnfcks/My_Web_Study/blob/main/03_CSS/01_HTML_in_CSS.md
